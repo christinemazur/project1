@@ -21,17 +21,17 @@ Rough breakdown of tasks:
 •	Create a new repository for this project called Project1
 •	Inside the Project1 git repository add: this file, a resources directory and a jupyter notebook
 •	Research and analyze datasets for New York and San Francisco Airbnb listings through Kaggle and Rapid .apis.
-o	NYC_Listings.csv & SF_Listings.csv
-o	http://insideairbnb.com/index.html
+  o	NYC_Listings.csv & SF_Listings.csv
+  o	http://insideairbnb.com/index.html
 •	Segment the NYC dataset due to large size (>180MB)
 •	Pandas
-o	Load, read and combine datasets into Pandas
-o	Determine merge key for datasets
+  o	Load, read and combine datasets into Pandas
+  o	Determine merge key for datasets
 •	Use matpltlib to visualize NYC and SF datasets
-o	Total number of rentals by month
-o	Average review score by month
-o	Use latitude and longitude to plot rental locations on a SF map and a NYC map to show density comparisons visually
-o	See research questions above
-o	WHAT else?
+  o	Total number of rentals by month
+  o	Average review score by month
+  o	Use latitude and longitude to plot rental locations on a SF map and a NYC map to show density comparisons visually
+  o	See research questions above
+  o	WHAT else?
 •	draw conclusions and summarize research results
-Contingency plan:  airline credit card company’s affiliation analysis.
+        Contingency plan:  airline credit card company’s affiliation analysis.
