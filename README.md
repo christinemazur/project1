@@ -1,6 +1,10 @@
 # project1
 Project Title: Airbnb Usage in NYC vs. San Francisco
 
+NYC reviews: https://drive.google.com/open?id=1rVOPQ1X8HRqz1EF7qumDZ9sTWtTNSNdA
+SF reviews: https://drive.google.com/open?id=1TXCqJLQkyxJTJ_Gd5t1B9izsLp5pztIG
+
+
 Team:  Amgad Nassif, Mikey Esteban, Benedict Waiharo, Christine Mazur
 
 Project Description: Tourist preference between NYC and SF based on Airbnb booking rate
